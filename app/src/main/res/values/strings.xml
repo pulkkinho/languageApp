@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">languageApp 1.03</string>
+
+    <string-array name="classes">
+        <item>Kaikki</item>
+        <item>Verbi</item>
+        <item>Substantiivi</item>
+        <item>Adjektiivi</item>
+        <item>Muut</item>
+    </string-array>
+
+    <string-array name="mode">
+        <item> "suomi-espanja" </item>
+        <item> "espanja-suomi" </item>
+    </string-array>
+</resources>

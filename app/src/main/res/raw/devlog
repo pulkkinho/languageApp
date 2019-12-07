@@ -1,0 +1,22 @@
+27.7.2019 version 1.0
+
+28.7.2019 version 1.01
+-correct answer given if no answer was entered
+-larger font on hint
+-possibility for multiple correct answers
+-"kaikki1"-file no longer needed
+
+24.8.2019 1.015
+-difficulty scrapped
+-possibility to reverse the languages
+
+1.9.2019 1.02
+-larger vocabulary
+
+2.9.2019 1.03
+-fixed bug where the app crashes on words
+with capital letters or parenthesis
+-added vocabulary
+-added color
+-moved language option field slightly to the right
+-moved option boxes, enter button and textbox slightly up
