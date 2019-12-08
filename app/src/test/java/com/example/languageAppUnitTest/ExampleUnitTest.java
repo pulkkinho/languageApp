@@ -1,4 +1,4 @@
-package com.example.languageApp3;
+package com.example.languageAppUnitTest;
 
 import org.junit.Test;
 
@@ -6,7 +6,7 @@ import static org.junit.Assert.*;
 
 /**
  * Example local unit test, which will execute on the development machine (host).
- * test test
+ * 
  * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
  */
 public class ExampleUnitTest {
