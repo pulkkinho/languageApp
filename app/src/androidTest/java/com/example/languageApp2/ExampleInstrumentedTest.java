@@ -1,6 +1,7 @@
-package com.example.languageApp;
+package com.example.languageApp2;
 
 import android.content.Context;
+
 
 import androidx.test.InstrumentationRegistry;
 import androidx.test.runner.AndroidJUnit4;
@@ -12,7 +13,7 @@ import static org.junit.Assert.*;
 
 /**
  * Instrumented test, which will execute on an Android device.
- *
+ * test test
  * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
  */
 @RunWith(AndroidJUnit4.class)
@@ -22,6 +23,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.espa", appContext.getPackageName());
+        assertEquals("com.example.languageApp", appContext.getPackageName());
     }
 }
